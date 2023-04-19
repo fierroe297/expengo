@@ -1,0 +1,9 @@
+//AQA2AZtrNwEVQCGiceuKtCvmBz0iVXL68HpXpWjo-TTbLiFzWWcS_m_wABKC6yqrov0ASFj3QMZgIg4wyx4bqapWhwD1dmFAsrjF8LLybaCK2EG-BReqDgZAR2gOd_t48rNfsdcu2y8VSzhAlc0Db82ctyjjn4E-UxI7QDVLK1kX30WVkAxCplqthWh5XztRKHSKCScKzOT_ADUMDgTBKyWHjV2SJ_EyDiEDoav5-E5xzw#_
+
+curl -X POST \
+  https://api.instagram.com/oauth/access_token \
+  -F client_id= 559024046348768 \
+  -F client_secret=e40e055740a89096d74a7ca50066904b \
+  -F grant_type=authorization_code \
+  -F redirect_uri=https://expengo.vercel.app/login?redirectTo=%2F \
+  -F code=AQA2AZtrNwEVQCGiceuKtCvmBz0iVXL68HpXpWjo-TTbLiFzWWcS_m_wABKC6yqrov0ASFj3QMZgIg4wyx4bqapWhwD1dmFAsrjF8LLybaCK2EG-BReqDgZAR2gOd_t48rNfsdcu2y8VSzhAlc0Db82ctyjjn4E-UxI7QDVLK1kX30WVkAxCplqthWh5XztRKHSKCScKzOT_ADUMDgTBKyWHjV2SJ_EyDiEDoav5-E5xzw
